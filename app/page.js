@@ -108,7 +108,7 @@ export default function Home() {
           <div className=' text-center'>
             <h1 className='text-3xl py-1 dark:text-white'>Portofolio</h1>
             <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'> 
-            // eslint-disable-next-line react/no-unescaped-entities
+            {/* {eslint-disable-next-line react/no-unescaped-entities} */}
             I have designed and developed a portfolio website
               showcasing my work for a cake client. With a focus on creativity and functionality,
               I have crafted visually stunning and user-friendly pages that effectively highlight the client's cakes and services.
