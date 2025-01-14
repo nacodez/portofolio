@@ -7,7 +7,7 @@ import design from "../public/frontend-development.png";
 import code from "../public/backend.png";
 import cakeshop from "../public/cakeshop.jpg";
 import posapp from "../public/posapp.jpg";
-import developer from "../public/developer.jpg";
+import cuttinghair from "../public/cutting-hair.jpg";
 import { useState } from "react";
 import Resume from "./resume/Resume_Nazik.pdf";
 import Link from "next/link";
@@ -175,7 +175,7 @@ export default function Home() {
                 <div class="h-64">
                   <Image
                     class="w-full h-full object-cover"
-                    src={developer}
+                    src={cuttinghair}
                     alt="Cake Ordering App"
                   />
                 </div>
