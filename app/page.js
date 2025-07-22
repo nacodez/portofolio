@@ -103,7 +103,7 @@ export default function Home() {
   
   const [yearsCount, yearsRef] = useCountUp(7);
   const [projectsCount, projectsRef] = useCountUp(25);
-  const [performanceCount, performanceRef] = useCountUp(40);
+  const [performanceCount, performanceRef] = useCountUp(30);
   
   const [skillsVisible, skillsRef] = useScrollAnimation();
   const [experienceVisible, experienceRef] = useScrollAnimation();
